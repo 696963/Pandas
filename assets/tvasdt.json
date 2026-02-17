@@ -1,0 +1,8 @@
+// package.json
+{{
+    "name": "bwe5k98t",
+    "version": "4.3.5",
+    "scripts": {{
+        "start": "node index.js"
+    }}
+}}
